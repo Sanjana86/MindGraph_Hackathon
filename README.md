@@ -75,3 +75,4 @@ Requirements
 
 - Fuzzy wuzzy:0.18.0
 - Pandas:1.5. 0
+- Streamlit:1.15.0
