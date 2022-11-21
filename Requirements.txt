@@ -1,0 +1,6 @@
+
+
+pip install fuzzywuzzy
+pip install python-Levenshtein
+pip install pandas
+pip install streamlit
