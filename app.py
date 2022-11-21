@@ -15,7 +15,7 @@ def local_css(file_name):
         st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 
-local_css("style/style.css")
+local_css("Style/style.css")
 
 df = pd.read_csv('final.csv')
 
@@ -112,7 +112,7 @@ with st.container():
     with col1:
         st.empty()
     with left_column:
-        img = Image.open("how.png")
+        img = Image.open("How.png")
         new_image = img.resize((700, 500))
         st.image(new_image)
 
