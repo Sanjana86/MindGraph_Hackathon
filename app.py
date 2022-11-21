@@ -91,6 +91,15 @@ with st.container():
     st.write("<h4> - Looking for the next generation of innovators in a particular field? </h4>",
              unsafe_allow_html=True)
 
+with st.container():
+    st.write("---")
+    st.write("<h1 style='text-align: center;color:black;'>We’re basically Tinder</h1>",
+             unsafe_allow_html=True)
+    st.write("<h4 style='text-align: center;'> Without the creeps, no-shows, or catfishes </h4>",
+             unsafe_allow_html=True)
+    st.write("<h3 style='text-align: center;color:black;'> We know 'We are basically a millennial teenage dream' </h3>",
+             unsafe_allow_html=True)
+
 
 with st.container():
 
