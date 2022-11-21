@@ -73,5 +73,5 @@ Welcome to the MU Hiring Hackathon 2022 conducted by MindGraph.
 ##
 Requirements
 
--Fuzzy wuzzy:0.18.0
--Pandas:1.5. 0
+- Fuzzy wuzzy:0.18.0
+- Pandas:1.5. 0
